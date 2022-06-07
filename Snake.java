@@ -1,7 +1,5 @@
 /**
  * Edward Davis
- * CS 152L Spring 2022
- * Lab 9 part 2 Assignment: Snake Game GUI.
  * This snake class is its own separate class from the Game Manager because it
  * has much of its own bookkeeping, and this made it easier to manage.
  *
