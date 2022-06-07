@@ -1,8 +1,6 @@
 
 /**
  * Edward Davis
- * CS 152L Spring 2022
- * Lab 9 part 2 Assignment: Snake Game GUI.
  * Shared interface allows all the classes to access the direction enum
  *  which is used for moves
  *
