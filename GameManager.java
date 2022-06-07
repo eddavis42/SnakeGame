@@ -1,7 +1,5 @@
 /**
  * Edward Davis
- * CS 152L Spring 2022
- * Lab 9 part 2 Assignment: Snake Game GUI.
  * This class does all the main bookkeeping to run a snake game. The "game map"
  * is generated from a text file and is built as a 2D array of characters. New
  * objects for the snake and food are created with randomly generated
