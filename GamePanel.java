@@ -1,7 +1,5 @@
 /**
  * Edward Davis
- * CS 152L Spring 2022
- * Lab 9 part 2 Assignment: Snake Game GUI.
  * This class creates a panel which animates the game and manages player
  * controls. It takes a GameManager object for the game's bookkeeping, paints
  * a panel to correspond to the game's map. It runs a timer which moves
